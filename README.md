@@ -1,15 +1,7 @@
-# Simple Hapi.js CRUD API
+# Overview
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) API using the Hapi.js framework. It is part of the Dicoding Submission for the "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud" course.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Node.js installed on your machine
-- npm (Node Package Manager) installed on your machine
 
 ### Installing
 
