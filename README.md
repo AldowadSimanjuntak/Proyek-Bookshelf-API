@@ -25,3 +25,13 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) API using 
    npm start
    ```
 The server will run at http://localhost:9000
+
+## Contribution
+Feel free to explore the codebase and documentation to gain a deeper understanding of the project.
+
+For any questions or further information, please reach out me
+
+Thank you for visiting the repository!
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
