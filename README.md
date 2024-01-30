@@ -1,4 +1,4 @@
-# Overview
+## Backend Bookshelf API
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) API using the Hapi.js framework. It is part of the Dicoding Submission for the "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud" course.
 
